@@ -1,0 +1,1 @@
+export const MEDIA_LIST = 'recommend_media_list';
